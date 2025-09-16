@@ -1,1 +1,5 @@
-# EESDC8-Do-androids-dream-of-electric-microbe-men
+# EESDC8-仿生人会梦见电子细菌人吗
+
+**本作品仅开放Demo游玩，下载请通过Release查看**
+
+本项目是一款以“后室”概念为基础的基于UE5搭建的3D解密游戏。
